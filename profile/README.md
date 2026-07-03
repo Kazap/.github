@@ -4,9 +4,7 @@ Engenharia de software e IA aplicada desde 2008, em Mogi Guaçu, SP. Construímo
 modernizamos sistemas com **codificação assistida por agente de IA** — com a régua
 de produção da casa: CI bloqueante, revisão adversarial e eval contínuo.
 
-O nosso case vivo é o próprio site, **[kazap.com.br](https://kazap.com.br)**: um
-agente conversacional em produção com telemetria pública de custo e latência
-("Modo Bastidores") — prova que você confere ao vivo, não slide.
+**[kazap.com.br](https://kazap.com.br)**
 
 ## O que você encontra aqui
 
@@ -25,4 +23,3 @@ Os repositórios `academy2019-*` e `template-academy-2022` são o histórico de
 turmas do Kazap Academy.
 
 O código dos projetos de clientes vive em repositórios privados — cases sob NDA.
-O processo é aberto: veja em [kazap.com.br](https://kazap.com.br).
