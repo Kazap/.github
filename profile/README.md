@@ -2,8 +2,8 @@
 
 **Software com IA operacionalizada, não improvisada.**
 
-Empresa brasileira de engenharia de software, desde 2008 em Mogi Guaçu, SP. Engenharia de software
-e IA: software sob medida, modernização de legado e IA operacionalizada.
+Empresa brasileira de engenharia de software e IA, desde 2008 em Mogi Guaçu, SP: software sob
+medida, modernização de legado e IA operacionalizada.
 
 **[kazap.com.br](https://kazap.com.br)** · [LinkedIn](https://www.linkedin.com/company/kazaptecnologia)
 
