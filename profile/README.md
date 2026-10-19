@@ -1,7 +1,5 @@
 # Kazap Tecnologia
 
-**Software com IA operacionalizada, não improvisada.**
-
 Empresa brasileira de engenharia de software e IA, desde 2008 em Mogi Guaçu, SP: software sob
 medida, modernização de legado e IA operacionalizada.
 
