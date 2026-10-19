@@ -2,9 +2,8 @@
 
 **Software com IA operacionalizada, não improvisada.**
 
-Empresa brasileira de engenharia de software, desde 2008 em Mogi Guaçu, SP. Entregamos software
-sob medida e colocamos IA em produção com a régua da casa: CI bloqueante, revisão adversarial em
-todo PR, eval harness e decisões registradas em ADRs.
+Empresa brasileira de engenharia de software, desde 2008 em Mogi Guaçu, SP. Engenharia de software
+e IA: software sob medida, modernização de legado e IA operacionalizada.
 
 **[kazap.com.br](https://kazap.com.br)** · [LinkedIn](https://www.linkedin.com/company/kazaptecnologia)
 
