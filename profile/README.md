@@ -1,47 +1,47 @@
 # Kazap Tecnologia
 
-Empresa brasileira de engenharia de software e IA, desde 2008 em Mogi Guaçu, SP: software sob
-medida, modernização de legado e IA operacionalizada.
+Brazilian software engineering and AI company, from Mogi Guaçu, SP, since 2008: custom software,
+legacy modernization and operationalized AI.
 
 **[kazap.com.br](https://kazap.com.br)** · [LinkedIn](https://www.linkedin.com/company/kazaptecnologia)
 
 ## Open source
 
-- [`claude-plugins`](https://github.com/Kazap/claude-plugins) — marketplace de plugins para
-  Claude Code publicado pela Kazap. O primeiro é o `adversarial`: um painel de revisão adversarial
-  para design, plano, spec ou código, com um cético independente que confere cada achado crítico
-  antes de qualquer correção.
+- [`claude-plugins`](https://github.com/Kazap/claude-plugins) — a Claude Code plugin marketplace
+  published by Kazap. The first plugin is `adversarial`: an adversarial review panel for a design,
+  plan, spec or code, with an independent skeptic that checks every critical finding before any
+  fix is applied.
 
   ```
   /plugin marketplace add Kazap/claude-plugins
   /plugin install adversarial@kazap
   ```
 
-  [`adversarial-review-plugin`](https://github.com/Kazap/adversarial-review-plugin) é o espelho
-  desse plugin para o diretório de plugins; issues e PRs vão no `claude-plugins`.
-- [`lazyload-vue`](https://github.com/Kazap/lazyload-vue) — plugin Vue open source publicado em
+  [`adversarial-review-plugin`](https://github.com/Kazap/adversarial-review-plugin) is the mirror
+  of that plugin used by the plugin directory; open issues and PRs in `claude-plugins`.
+- [`lazyload-vue`](https://github.com/Kazap/lazyload-vue) — open source Vue plugin published in
   2019.
 
-## Laboratórios do programa de formação
+## Training program labs
 
-Material do **Squad Amplificada · Formação**, nosso programa de codificação assistida por agente
-de IA. São projetos fictícios, feitos para treinar no código e não em slides:
+Material from **Squad Amplificada · Formação**, our training program in AI agent-assisted coding.
+These are fictional projects, built for practicing on code rather than on slides:
 
-- [`lab-agent-loop`](https://github.com/Kazap/lab-agent-loop) — anatomia de um agente de
-  codificação: modelo + ferramentas + loop com critério de parada.
-- [`lab-rails-legacy`](https://github.com/Kazap/lab-rails-legacy) — "legado" fictício em Rails,
-  instrumentado para o treinamento.
-- [`lab-insurtech`](https://github.com/Kazap/lab-insurtech) e
-  [`lab-insurtech-nestjs`](https://github.com/Kazap/lab-insurtech-nestjs) — a mesma insurtech
-  fictícia (SafeCover) em Rails e em NestJS, com `CLAUDE.md`, hooks e skills configurados.
+- [`lab-agent-loop`](https://github.com/Kazap/lab-agent-loop) — the anatomy of a coding agent:
+  model + tools + a loop with a stop condition.
+- [`lab-rails-legacy`](https://github.com/Kazap/lab-rails-legacy) — a fictional Rails "legacy"
+  app, instrumented for the training.
+- [`lab-insurtech`](https://github.com/Kazap/lab-insurtech) and
+  [`lab-insurtech-nestjs`](https://github.com/Kazap/lab-insurtech-nestjs) — the same fictional
+  insurtech (SafeCover) in Rails and in NestJS, with `CLAUDE.md`, hooks and skills set up.
 
-## Histórico
+## History
 
-Os repositórios `academy2019-*` e `template-academy-2022` são o histórico de turmas do Kazap
-Academy, hoje arquivados.
+The `academy2019-*` and `template-academy-2022` repositories are the history of Kazap Academy
+cohorts, now archived.
 
-O código dos projetos de clientes vive em repositórios privados: os cases são anônimos por NDA.
+Client project code lives in private repositories: case studies are anonymized under NDA.
 
 ---
 
-*Engenharia aplicada, confiança construída.*
+*Applied engineering, trust built.*
